@@ -1,0 +1,10 @@
+C:\Users\Arnout\Documents\SharpDevelop Projects\SudokuClassLib\SudokuClassLib\bin\Debug\SudokuClassLib.dll
+C:\Users\Arnout\Documents\SharpDevelop Projects\SudokuClassLib\SudokuClassLib\bin\Debug\SudokuClassLib.pdb
+C:\Users\Arnout\Documents\SharpDevelop Projects\SudokuClassLib\SudokuClassLib\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Arnout\Documents\SharpDevelop Projects\SudokuClassLib\SudokuClassLib\obj\x86\Debug\SudokuClassLib.dll
+C:\Users\Arnout\Documents\SharpDevelop Projects\SudokuClassLib\SudokuClassLib\obj\x86\Debug\SudokuClassLib.pdb
+C:\Users\Arnout\Documents\SharpDevelop Projects\SudokuSolver\SudokuClassLib\SudokuClassLib\bin\Debug\SudokuClassLib.dll
+C:\Users\Arnout\Documents\SharpDevelop Projects\SudokuSolver\SudokuClassLib\SudokuClassLib\bin\Debug\SudokuClassLib.pdb
+C:\Users\Arnout\Documents\SharpDevelop Projects\SudokuSolver\SudokuClassLib\SudokuClassLib\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Arnout\Documents\SharpDevelop Projects\SudokuSolver\SudokuClassLib\SudokuClassLib\obj\x86\Debug\SudokuClassLib.dll
+C:\Users\Arnout\Documents\SharpDevelop Projects\SudokuSolver\SudokuClassLib\SudokuClassLib\obj\x86\Debug\SudokuClassLib.pdb

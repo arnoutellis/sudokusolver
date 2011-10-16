@@ -1,0 +1,10 @@
+C:\Users\Arnout\Documents\SharpDevelop Projects\SudokuInterface\SudokuInterface\bin\Debug\SudokuInterface.exe
+C:\Users\Arnout\Documents\SharpDevelop Projects\SudokuInterface\SudokuInterface\bin\Debug\SudokuInterface.pdb
+C:\Users\Arnout\Documents\SharpDevelop Projects\SudokuInterface\SudokuInterface\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Arnout\Documents\SharpDevelop Projects\SudokuInterface\SudokuInterface\obj\x86\Debug\SudokuInterface.MainForm.resources
+C:\Users\Arnout\Documents\SharpDevelop Projects\SudokuInterface\SudokuInterface\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Arnout\Documents\SharpDevelop Projects\SudokuInterface\SudokuInterface\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Arnout\Documents\SharpDevelop Projects\SudokuInterface\SudokuInterface\obj\x86\Debug\SudokuInterface.exe
+C:\Users\Arnout\Documents\SharpDevelop Projects\SudokuInterface\SudokuInterface\obj\x86\Debug\SudokuInterface.pdb
+C:\Users\Arnout\Documents\SharpDevelop Projects\SudokuInterface\SudokuInterface\bin\Debug\SudokuClassLib.dll
+C:\Users\Arnout\Documents\SharpDevelop Projects\SudokuInterface\SudokuInterface\bin\Debug\SudokuClassLib.pdb
