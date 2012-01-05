@@ -106,15 +106,15 @@ namespace SudokuSolver
 			sVals = solver.GetSudokuSquareMap();
 			string val = string.Empty;
 						
-	       	for (int i=0; i < 9; i++) 
+	       	for (int y=0; y < 9; y++) 
 	      	{
 	       		Console.Write("| ");
-	        	for (int j=0; j < 9; j++)
+	        	for (int x=0; x < 9; x++)
 	        	{
-	        		if(sVals[i,j].CurrentValue == 0)
+	        		if(sVals[x,y].CurrentValue == 0)
 	        			val = " ";
 	        		else
-	        			val = Convert.ToString(sVals[i,j].CurrentValue);
+	        			val = Convert.ToString(sVals[x,y].CurrentValue);
 	        		
 	        		Console.Write("{0} | ",val);	
 	        	}

@@ -12,3 +12,10 @@ C:\Users\Arnout\Documents\SharpDevelop Projects\SudokuSolver\SudokuCA\SudokuCA\b
 C:\Users\Arnout\Documents\SharpDevelop Projects\SudokuSolver\SudokuCA\SudokuCA\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Arnout\Documents\SharpDevelop Projects\SudokuSolver\SudokuCA\SudokuCA\obj\x86\Debug\SudokuCA.exe
 C:\Users\Arnout\Documents\SharpDevelop Projects\SudokuSolver\SudokuCA\SudokuCA\obj\x86\Debug\SudokuCA.pdb
+C:\Users\Arnout\Documents\Code\ss1\SudokuCA\SudokuCA\bin\Debug\SudokuCA.exe
+C:\Users\Arnout\Documents\Code\ss1\SudokuCA\SudokuCA\bin\Debug\SudokuCA.pdb
+C:\Users\Arnout\Documents\Code\ss1\SudokuCA\SudokuCA\bin\Debug\SudokuClassLib.dll
+C:\Users\Arnout\Documents\Code\ss1\SudokuCA\SudokuCA\bin\Debug\SudokuClassLib.pdb
+C:\Users\Arnout\Documents\Code\ss1\SudokuCA\SudokuCA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Arnout\Documents\Code\ss1\SudokuCA\SudokuCA\obj\x86\Debug\SudokuCA.exe
+C:\Users\Arnout\Documents\Code\ss1\SudokuCA\SudokuCA\obj\x86\Debug\SudokuCA.pdb

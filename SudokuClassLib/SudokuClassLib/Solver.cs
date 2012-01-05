@@ -97,7 +97,7 @@ namespace SudokuSolver
 			foreach(var s in _sudokuMap.SudokuSquareMap)
 			{
 				
-				if(!s.IsSet & !s.IsNative)					
+				if(!s.IsSet && !s.IsNative)					
 					s.AddPossibleValue(
 						sa.ReturnPossibleValues(
 							_sudokuMap.GetCol(s.XLoc),

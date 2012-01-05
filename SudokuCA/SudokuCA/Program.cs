@@ -17,25 +17,25 @@ namespace SudokuCA
 		{
 			Console.WriteLine("Welcome To Sudoku Solver!");
 			
-			
-			
 			var ioHandler = new IOHandler();
 			var th = new SudokuTestHarness();
 			
-			int[,] thePuzzle = th.GetSudokuTestValuesExtreme();
+			int[,] thePuzzle = th.GetSudokuTestValuesGuess();
 			ioHandler.SetSudokuValues(thePuzzle);
 			
 			Console.WriteLine("Here is the Puzzle");
 			
-			
 			ioHandler.PrintPuzzle();
 			Console.WriteLine();
-			Console.WriteLine("now solved for ruthie");
 			
 			
 			if(!ioHandler.SolvePuzzle())
 			{
 				Console.WriteLine("Soz...couldn't solve the puzzle");
+				ioHandler.PrintPuzzle();
+				ioHandler.DebugQuadrant(1,1);
+				
+					
 			} else {
 			
 			ioHandler.PrintPuzzle();

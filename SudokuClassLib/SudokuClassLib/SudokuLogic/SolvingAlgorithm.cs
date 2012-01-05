@@ -28,8 +28,8 @@ namespace SudokuSolver.SudokuLogic
 			for(int i = 1; i <= 9; i++)
 			{
 				if(
-					!col.ContainsValue(i) &
-					!row.ContainsValue(i) &
+					!col.ContainsValue(i) &&
+					!row.ContainsValue(i) &&
 					!quad.ContainsValue(i))				
 						possibleValues.Add(i);
 				
@@ -70,10 +70,24 @@ namespace SudokuSolver.SudokuLogic
 					solveInfo[1] = number;
 					return solveInfo;
 				}
+				
+				if(HasOnlyOnePossibleValue(sq)) {
+					solveInfo[0] = 1;
+					solveInfo[1] = number;
+					return solveInfo;
+				}
 				   
 			}
 			
 			return solveInfo;
+		}
+		
+		private bool HasOnlyOnePossibleValue(Square sq) {
+			if(sq.PossibleValues.Count == 1) {
+				return true;
+			} else {
+				return false;
+			}
 		}
 		
 		private bool NumberIsPossibleElsewhereInQuad(int number, Quadrant quad)

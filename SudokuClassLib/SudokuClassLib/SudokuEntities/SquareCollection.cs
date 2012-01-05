@@ -33,6 +33,10 @@ namespace SudokuSolver.SudokuEntities
 			{
 				Console.WriteLine("xID={0} yID={1} currentValue={2}",
 				                  s.XLoc, s.YLoc, s.CurrentValue);
+				foreach(var i in s.PossibleValues) {
+					Console.WriteLine("possible values: {0}", i);
+					
+				}
 			}
 		}
 	}
