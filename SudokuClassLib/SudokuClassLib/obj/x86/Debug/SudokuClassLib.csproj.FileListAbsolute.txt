@@ -13,3 +13,8 @@ C:\Users\Arnout\Documents\Code\ss1\SudokuClassLib\SudokuClassLib\bin\Debug\Sudok
 C:\Users\Arnout\Documents\Code\ss1\SudokuClassLib\SudokuClassLib\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Arnout\Documents\Code\ss1\SudokuClassLib\SudokuClassLib\obj\x86\Debug\SudokuClassLib.dll
 C:\Users\Arnout\Documents\Code\ss1\SudokuClassLib\SudokuClassLib\obj\x86\Debug\SudokuClassLib.pdb
+C:\Users\Arnout\Documents\Code\sudokusolver\SudokuClassLib\SudokuClassLib\bin\Debug\SudokuClassLib.dll
+C:\Users\Arnout\Documents\Code\sudokusolver\SudokuClassLib\SudokuClassLib\bin\Debug\SudokuClassLib.pdb
+C:\Users\Arnout\Documents\Code\sudokusolver\SudokuClassLib\SudokuClassLib\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Arnout\Documents\Code\sudokusolver\SudokuClassLib\SudokuClassLib\obj\x86\Debug\SudokuClassLib.dll
+C:\Users\Arnout\Documents\Code\sudokusolver\SudokuClassLib\SudokuClassLib\obj\x86\Debug\SudokuClassLib.pdb

@@ -33,7 +33,7 @@ namespace SudokuCA
 			{
 				Console.WriteLine("Soz...couldn't solve the puzzle");
 				ioHandler.PrintPuzzle();
-				ioHandler.DebugQuadrant(1,1);
+				//ioHandler.DebugQuadrant(1,1);
 				
 					
 			} else {
